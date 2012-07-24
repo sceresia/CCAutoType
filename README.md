@@ -3,6 +3,10 @@ CCAutoType
 
 cocos2d-iPhone class to add RPG-like auto typing dialog
 
+Video example:
+
+http://www.youtube.com/watch?v=z5aLkzy_pio
+
 Usage:
 
 <pre>
